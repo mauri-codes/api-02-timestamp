@@ -1,10 +1,11 @@
 {
-	"name": "whoami-acm",
-	"private": true,
-	"scripts": {
-		"start": "node app"
-	},
-	"dependencies": {
-		"express": "^4.14.0" 
-	}
+  "name": "whoami-acm",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "request-ip": "^1.2.2"
+  }
 }
